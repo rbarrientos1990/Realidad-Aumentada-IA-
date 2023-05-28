@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53e4eccd9be54a24a88e561957dc75fc, type: 3}
+  m_Name: EscritiorioModerno_1
+  m_EditorClassIdentifier: 
+  ItemName: Escritorio Moderno #1
+  ItemImage: {fileID: 21300000, guid: f9161c6c9e06dc445ada3ee16d991f90, type: 3}
+  ItemDescription: Escritorio Moderno #1
+  Item3DModel: {fileID: 1872000453908547817, guid: 9b2d391775496534da267c8f98bbb058, type: 3}
